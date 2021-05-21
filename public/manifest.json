@@ -1,0 +1,22 @@
+{
+  "name": "PWA Vue Music Application",
+  "short_name": "PWA Music",
+  "description": "Introduction on using progressive web applicaton in a music app",
+  "theme_color": "#fefefe",
+  "background_color": "#333333",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
